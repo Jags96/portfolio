@@ -1,5 +1,7 @@
-# JAGATH KATAMA REDDY
-jagathkumarreddykatamareddy@gmail.com ● (317) 540 7290  github.com/Jags96    linkedin.com/in/jagathkrk
+# JAGATH KUMAR REDDY KATAMA REDDY
+jagathkumarreddykatamareddy@gmail.com 
+- github.com/Jags96    
+- linkedin.com/in/jagathkrk
 
 ## EDUCATION
 Indiana University, Luddy School of Informatics, Computing, and Engineering Indianapolis, IN
@@ -7,12 +9,13 @@ Master of Science in Applied Data Science                                       
 
 National Institute of Technology, Rourkela, Odisha, India 							Bachelor of Technology in Electronics and Communication Engineering                                               May 2023
 
-## TECHNICAL SKILLS
-### Programming languages: Python, R, SQL (Advanced), C++, Java, Bash Scripting
-### Developer Tools: Tensorflow, VSCode, Pycharm, Pyspark, Tabuleo, Excel, Docker, Rstudio
-### Framework: Tensorflow, Pytorch, DeepSpeed
-### Database: PostgreSQL, MySQL, SQLite, MongoDB, NoSQL
-### Libraries: Pandas, Numpy, PyTorch, keras, tensorflow, Scikit-learn, Hugging Face, Seaborn, requests, BeautifulSoup, Selenium, transformers, Datasets
+
+## EXPERIENCE
+### Statistics Teaching Assistant, Luddy School of Informatics,  Spring 2025 
+- Guided students with statistical concepts and improved their understanding of various statistical .
+- Visualization, plotting various meaningful insights from Big datasets and derived various useful hidden/ latent insights 
+
+
 
 ## DATA SCIENCE PROJECTS EXPERIENCE 
 ### Python Code Generator – Transformer-Based Model  						        Fall 2024
@@ -36,3 +39,11 @@ Deployed the model as an interactive web application using Streamlit, with visua
 Formulated testable hypotheses (ANOVA, chi-square tests, t-tests) to analyze the relationship between BMI and lifestyle factors (more than 12 factors).
 Conducted regression analyses on multiple response variable types (continuous, count, proportion/rate) to evaluate the impact of lifestyle variables on obesity risk.
 Interpreted statistical findings for reliability and validity to derive actionable insights.
+
+
+## TECHNICAL SKILLS
+-  Programming languages: Python, R, SQL (Advanced), C++, Java, Bash Scripting
+-  Developer Tools: Tensorflow, VSCode, Pycharm, Pyspark, Tabuleo, Excel, Docker, Rstudio
+-  Framework: Tensorflow, Pytorch, DeepSpeed
+-  Database: PostgreSQL, MySQL, SQLite, MongoDB, NoSQL
+-  Libraries: Pandas, Numpy, PyTorch, keras, tensorflow, Scikit-learn, Hugging Face, Seaborn, requests, BeautifulSoup, Selenium, transformers, Datasets

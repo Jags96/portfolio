@@ -1,5 +1,5 @@
 # JAGATH KUMAR REDDY KATAMA REDDY
- [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com)
+ [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com) | [resume](./assets/resume.pdf)
 
 
 ## EDUCATION
@@ -40,6 +40,10 @@
 - Formulated testable hypotheses (ANOVA, chi-square tests, t-tests) to analyze the relationship between BMI and lifestyle factors (more than 12 factors).
 - Conducted regression analyses on multiple response variable types (continuous, count, proportion/rate) to evaluate the impact of lifestyle variables on obesity risk.
 - Interpreted statistical findings for reliability and validity to derive actionable insights.
+
+
+## CERTIFICATIONS
+- DeepLearning.AI Tensorflow Developer Specialization | Coursera | May 2024 |[pdf](.assets/deeplearningcertificate.pdf)
 
 
 ## TECHNICAL SKILLS

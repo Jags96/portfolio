@@ -1,5 +1,5 @@
 # JAGATH KUMAR REDDY KATAMA REDDY
- [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com) | [resume](https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link)
+ [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com) | [Resume](https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link)
 
 
 ## EDUCATION
@@ -43,7 +43,7 @@
 
 
 ## CERTIFICATIONS
-- DeepLearning.AI Tensorflow Developer Specialization | Coursera | May 2024 |[pdf](https://drive.google.com/file/d/1fhpWPbzp7TsvfaQlQNtcLbh51coe5eKc/view?usp=sharing)
+- DeepLearning.AI Tensorflow Developer Specialization | Coursera | May 2024 | [pdf] (https://drive.google.com/file/d/1fhpWPbzp7TsvfaQlQNtcLbh51coe5eKc/view?usp=sharing)
 
 
 ## TECHNICAL SKILLS

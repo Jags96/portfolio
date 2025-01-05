@@ -43,7 +43,7 @@
 
 
 ## CERTIFICATIONS
-- DeepLearning.AI Tensorflow Developer Specialization | Coursera | May 2024 | [pdf] (https://drive.google.com/file/d/1fhpWPbzp7TsvfaQlQNtcLbh51coe5eKc/view?usp=sharing)
+- DeepLearning.AI Tensorflow Developer Specialization | Coursera | May 2024 |  [pdf](https://drive.google.com/file/d/1fhpWPbzp7TsvfaQlQNtcLbh51coe5eKc/view?usp=sharing)
 
 
 ## TECHNICAL SKILLS

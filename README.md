@@ -16,6 +16,8 @@
 ### Statistics Teaching Assistant | Luddy School of Informatics  |  Spring 2025 
 - Worked as a TA for the Master's level course INFO-H 510 Statistics for Data Science. This course offers an introduction to statistics for Master's students, generally those studying Applied Data Science, with a focus on applying the statistical topics studied in the class via R programming.
 
+### SQL Teaching Assistant | Luddy School of Informatics  |  Spring 2025 
+- Worked as a TA for INFO-I 308: Information Representation (Undergraduate Course). where I instructed undergraduate students in database design principles and SQL using MySQL and phpMyAdmin. Evaluated student assignments and provided technical support.
 
 
 ## DATA SCIENCE PROJECTS EXPERIENCE 

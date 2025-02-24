@@ -32,6 +32,12 @@
 - Optimized model performance by fine-tuning with vector similarity metrics and the LLM-as-a-judge methodology.
 - Utilized FAQs(~2000 questions) from an online course (ZoomCamp) as the primary database for the RAG model, enhancing question-answer matching.
 
+### Transportation Company Database Design - MySQL database design | [[Github]](https://github.com/Jags96/transportation_company_database) | Fall 2024
+- Designed and developed a Transportation Management Database for managing bookings, vehicle and driver assignments, invoicing, and SaaS subscriptions for a road-based transport company.
+- Implemented role-based access controls and business rules to ensure data security and system integrity, including constraints for vehicle and customer assignments.
+- Optimized database structure through normalization (1NF to 3NF) to reduce redundancy and enhance data integrity.
+- Created detailed documentation outlining database schema, relationships, business rules, and SQL setup instructions for seamless integration and use.
+  
 ### Apartment Recommender – Content-Based Filtering System | [[Github]](https://github.com/Jags96/Score-Apartment-Recommender) |  Fall 2024
 - Designed a content-based filtering model to analyze user preferences, generating personalized apartment recommendations (from nearly 10k apartments).
 - Applied Principal Component Analysis (PCA) and pairwise similarity metrics, improving the efficiency of recommendation generation by 20% while reducing computational overhead.

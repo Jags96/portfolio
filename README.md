@@ -23,7 +23,7 @@
 ## DATA SCIENCE PROJECTS EXPERIENCE 
 ### Python Code Generator – Transformer-Based Model | [[Github]](https://github.com/Jags96/CodeGen) |	Fall 2024
 - Developed and performed inference a custom Transformer model (5M parameters) for Python code generation, leveraging GPT-2 architecture.
-- Pre-trained the model on the CodeParrot dataset (~50 GB) from Hugging Face using A100 GPUs, with random weight initialization.
+- Pre-trained the model on the CodeParrot dataset (~50 GB) from Hugging Face using A16 GPUs, with random weight initialization.
 - Fine-tuned GPT-2 (124M) and Llama 2 (7B) models for enhanced Python code generation capabilities using GPUs.
 
 ### RAG Pipeline – FAQ-Based Question-Answering System |  [[Github]](https://github.com/Jags96/RAG)  |  Fall 2024

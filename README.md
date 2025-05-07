@@ -35,7 +35,7 @@
 - Incorporated NER and relation extraction to identify important entities and their relationships, enhancing the quality of summaries.
 - Deployed using Apache Kafka and Docker for real-time paper ingestion, and added automated citation generation for research reports via arXiv API.
 
-<! --### Personal PDF RAG Pipeline – Question-Answering System |  [[Github]](https://github.com/Jags96/RAG)  |  Summer 2024
+<!-- ### Personal PDF RAG Pipeline – Question-Answering System |  [[Github]](https://github.com/Jags96/RAG)  |  Summer 2024
 - Engineered a Retrieval-Augmented Generation (RAG) pipeline utilizing the Ollama 2 LLM model for prompt generation and response generation.
 - Integrated semantic Elasticsearch for advanced query matching and text retrieval, improving answer accuracy and relevance.
 - Optimized model performance by fine-tuning with vector similarity metrics and the LLM-as-a-judge methodology.

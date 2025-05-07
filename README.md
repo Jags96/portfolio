@@ -1,5 +1,5 @@
 # JAGATH KUMAR REDDY KATAMA REDDY
- [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com) | [Resume](https://drive.google.com/file/d/1UiPajNJHVlt_IlEAX0sxGeGaonvqgQD3/view?usp=drive_link)
+ [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com) | [Resume](https://drive.google.com/file/d/16IptDVoVJDMId7sG-g4PmwOhvyVlC55k/view?usp=sharing)
 
 
 ## EDUCATION
@@ -13,8 +13,11 @@
 
 
 ## PROFESSIONAL EXPERIENCE
-### Statistics Teaching Assistant | Luddy School of Informatics  |  Spring 2025 
-- Worked as a TA for the Master's level course INFO-H 510 Statistics for Data Science. This course offers an introduction to statistics for Master's students, generally those studying Applied Data Science, with a focus on applying the statistical topics studied in the class via R programming.
+### Research Assistant - Gen AI and NLP Research | Health - Technology Lab | May 2025 - Present
+- Currently working on confidential medical project under the guidance of Prof. Hee - Tae Jung in the Health Laboratory Lab involving advanced NLP and Generative AI techniques, with responsibilities spanning from model development to production deployment.
+
+### Statistics Graduate Teaching Assistant | Luddy School of Informatics  |  Spring 2025 
+- Provided feedback to Applied Data Science Master's students on statistical analysis and R programming assignments, enhancing their conceptual and practical skills.
 
 ### SQL Teaching Assistant | Luddy School of Informatics  |  Spring 2025 
 - Worked as a TA for INFO-I 308: Information Representation (Undergraduate Course). where I instructed undergraduate students in database design principles and SQL using MySQL and phpMyAdmin. Evaluated student assignments and provided technical support.
@@ -22,9 +25,10 @@
 
 ## DATA SCIENCE PROJECTS EXPERIENCE 
 ### Python Code Generator – Transformer-Based Model | [[Github]](https://github.com/Jags96/CodeGen) |	Fall 2024
-- Developed and performed inference a custom Transformer model (5M parameters) for Python code generation, leveraging GPT-2 architecture.
-- Pre-trained the model on the CodeParrot dataset (~50 GB) from Hugging Face using A16 GPUs, with random weight initialization.
-- Fine-tuned GPT-2 (124M) and Llama 2 (7B) models for enhanced Python code generation capabilities using GPUs.
+- Developed Python code generation models using lightweight large language models (LLMs), including GPT-2, LLaMA 3.2, Gemma 3, and Qwen 2.5. Fine-tuned over 200K+ Python code samples using Parameter-Efficient Fine-Tuning (PEFT) with LoRA and quantization techniques on multi-GPU setups (NVIDIA A16) using the Accelerate library.
+- Designed and executed experiments to benchmark model architectures (124M–3B params), optimizing training via gradient checkpointing and evaluating outputs with cross-entropy loss and code-specific tasks.
+- Identified performance tradeoffs across model families and exposed limitations in metrics like perplexity and CodeBLEU, contributing to research on efficient, local LLM-based code generation.
+
 
 ### RAG Pipeline – FAQ-Based Question-Answering System |  [[Github]](https://github.com/Jags96/RAG)  |  Fall 2024
 - Engineered a Retrieval-Augmented Generation (RAG) pipeline utilizing the Ollama 2 LLM model for prompt generation and response generation.
@@ -41,7 +45,7 @@
 ### Apartment Recommender – Content-Based Filtering System | [[Github]](https://github.com/Jags96/Score-Apartment-Recommender) |  Fall 2024
 - Designed a content-based filtering model to analyze user preferences, generating personalized apartment recommendations (from nearly 10k apartments).
 - Applied Principal Component Analysis (PCA) and pairwise similarity metrics, improving the efficiency of recommendation generation by 20% while reducing computational overhead.
-- Implemented a count-vectorizer to improve search capabilities, reducing search query processing time to  0.005 seconds,10% compared to initial baseline models.
+- Implemented a count-vectorizer to improve search capabilities, reducing search query processing time to  0.5 seconds,10% compared to initial baseline models.
 - Deployed the model as an interactive web application using Streamlit, with visualizations to enhance user engagement.
 
 ### Obesity Estimation Based on Lifestyle Variables in R  - Statistical Analysis in R	| [[Rpubs]](https://rpubs.com/jagath_96) |  Fall 2024

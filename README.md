@@ -33,7 +33,7 @@
 ### Research Abstract Summarization Pipeline (Work in Progress) [GitHub]                          May 2025 - Present
 - Developed an NLP pipeline using Hugging Face Transformers (Ollama-3, BERT) to automatically extract and summarize key insights from thousands of academic research papers, improving researcher productivity by 30% (estimated).
 - Incorporated NER and relation extraction to identify important entities and their relationships, enhancing the quality of summaries.
-- Deployed using Apache Kafka and Docker for real-time paper ingestion, and added automated citation generation for research reports via arXiv API.
+- Deployed using Docker for real-time paper ingestion, and added automated citation generation for research reports via arXiv API.
 
 <!-- ### Personal PDF RAG Pipeline – Question-Answering System |  [[Github]](https://github.com/Jags96/RAG)  |  Summer 2024
 - Engineered a Retrieval-Augmented Generation (RAG) pipeline utilizing the Ollama 2 LLM model for prompt generation and response generation.

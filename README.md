@@ -1,5 +1,5 @@
-# JAGATH KUMAR REDDY KATAMA REDDY
- [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarreddykatamareddy@gmail.com) | [Resume](https://drive.google.com/file/d/16IptDVoVJDMId7sG-g4PmwOhvyVlC55k/view?usp=sharing)
+# JAGATH KATAMA 
+ [Github](https://github.com/Jags96)  |  [LinkedIn](https://www.linkedin.com/in/jagathkrk/) | [Portfolio](https://jags96.github.io/portfolio/) | [Gmail](jagathkumarkatama@gmail.com) | [Resume](https://drive.google.com/file/d/16IptDVoVJDMId7sG-g4PmwOhvyVlC55k/view?usp=sharing)
 
 
 ## EDUCATION

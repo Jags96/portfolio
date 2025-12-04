@@ -30,10 +30,10 @@
 - Identified performance tradeoffs across model families and exposed limitations in metrics like perplexity and CodeBLEU, contributing to research on efficient, local LLM-based code generation.
 
 
-### Research Abstract Summarization Pipeline (Work in Progress) [GitHub]                          May 2025 - Present
+<!--### Research Abstract Summarization Pipeline (Work in Progress) [GitHub]                          May 2025 - Present
 - Developed an NLP pipeline using Hugging Face Transformers (Ollama-3, BERT) to automatically extract and summarize key insights from thousands of academic research papers, improving researcher productivity by 30% (estimated).
 - Incorporated NER and relation extraction to identify important entities and their relationships, enhancing the quality of summaries.
-- Deployed using Docker for real-time paper ingestion, and added automated citation generation for research reports via arXiv API.
+- Deployed using Docker for real-time paper ingestion, and added automated citation generation for research reports via arXiv API. -->
 
 <!-- ### Personal PDF RAG Pipeline – Question-Answering System |  [[Github]](https://github.com/Jags96/RAG)  |  Summer 2024
 - Engineered a Retrieval-Augmented Generation (RAG) pipeline utilizing the Ollama 2 LLM model for prompt generation and response generation.
@@ -42,9 +42,9 @@
 - Utilized FAQs(~2000 questions) from an online course (ZoomCamp) as the primary database for the RAG model, enhancing question-answer matching.
 -->
 
-### AI - Competitive coder - RAG model (Work in Progress)[GitHub]				   May 2025 - Present
+<!--### AI - Competitive coder - RAG model (Work in Progress)[GitHub]				   May 2025 - Present
 - Developed an AI-driven Retrieval-Augmented Generation (RAG) system using Ollama 3 LLM and Elasticsearch for vector semantic search, enabling autonomous generation and refinement of competitive coding solutions from problem statements.
-- Implemented a multi-stage refinement process including LLM-based code generation, automated test case validation, and iterative debugging, showcasing proficiency in NLP, vector databases, and - AI-driven problem-solving, with planned integration of an autonomous compiler for runtime performance analysis and optimization.
+- Implemented a multi-stage refinement process including LLM-based code generation, automated test case validation, and iterative debugging, showcasing proficiency in NLP, vector databases, and - AI-driven problem-solving, with planned integration of an autonomous compiler for runtime performance analysis and optimization.-->
 
 ### Transportation Company Database Design - MySQL database design | [[Github]](https://github.com/Jags96/transportation_company_database) | Fall 2024
 - Designed and developed a Transportation Management Database for managing bookings, vehicle and driver assignments, invoicing, and SaaS subscriptions for a road-based transport company.
